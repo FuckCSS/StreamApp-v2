@@ -1,0 +1,10 @@
+{
+  "name": "FluxusTV",
+  "short_name": "FluxusTV",
+  "description": "3M+ movies and TV shows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#6366f1",
+  "orientation": "any"
+}
